@@ -1,0 +1,452 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "tittle": "AirPods (3rd generation) with Lightning Charging Case",
+      "class": "AirPods",
+      "price": 169.00,
+      "imageURL": "./asset/image/airpods/MME73.png"
+    },
+    {
+      "id": 2,
+      "tittle": "Apple AirPods Max Pink",
+      "class": "AirPods",
+      "price": 564.00,
+      "imageURL": "./asset/image/airpods/apple-airpods-max-pink-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "tittle": "AirPods Pro (2nd generation) with MagSafe Charging Case (USB‑C)",
+      "class": "AirPods",
+      "price": 249.00,
+      "imageURL": "./asset/image/airpods/MTJV3.png"
+    },
+    {
+      "id": 4,
+      "tittle": "Apple AirPods (2022) with charging case MagSafe White",
+      "class": "AirPods",
+      "price": 209.00,
+      "imageURL": "./asset/image/airpods/apple-airpods-2022-with-charging-case-magsafe-white-removebg-preview.png"
+    },
+    {
+      "id": 5,
+      "tittle": "Apple AirPods Pro (2022) with MagSafe Charging White",
+      "class": "AirPods",
+      "price": 289.00,
+      "imageURL": "./asset/image/airpods/apple-airpods-pro-2022-with-magsafe-charging-white-removebg-preview.png"
+    },
+    {
+      "id": 6,
+      "tittle": "Apple iMac 24 (Spring 2021) - Blue",
+      "class": "Mac",
+      "price": 2199.99,
+      "imageURL": "./asset/image/mac/15446360-removebg-preview.png"
+    },
+    {
+      "id": 7,
+      "tittle": "Open Box - Apple iMac (MRT32LL/A)",
+      "class": "Mac",
+      "price": 1529.99,
+      "imageURL": "./asset/image/mac/13789753-removebg-preview.png"
+    },
+    {
+      "id": 8,
+      "tittle": "Refurbished (Good) - Apple iMac 21.5",
+      "class": "Mac",
+      "price": 431.99,
+      "imageURL": "./asset/image/mac/12564716-removebg-preview.png"
+    },
+    {
+      "id": 9,
+      "tittle": "Apple MacBook Air 13.6 w/ Touch ID (2022)",
+      "class": "Mac",
+      "price": 1449.99,
+      "imageURL": "./asset/image/mac/16282196-removebg-preview.png"
+    },
+    {
+      "id": 10,
+      "tittle": "Apple MacBook Pro 14 (2023)",
+      "class": "Mac",
+      "price": 2599.99,
+      "imageURL": "./asset/image/mac/16670269-removebg-preview.png"
+    },
+    {
+      "id": 11,
+      "tittle": "Apple MacBook Air 13.3 w/ Touch ID (Fall 2020)",
+      "class": "Mac",
+      "price": 1229.99,
+      "imageURL": "./asset/image/mac/15136919-removebg-preview.png"
+    },
+    {
+      "id": 12,
+      "tittle": "Apple MacBook Pro 13.3 w/ Touch Bar (2022)",
+      "class": "Mac",
+      "price": 1699.99,
+      "imageURL": "./asset/image/mac/16282200-removebg-preview.png"
+    },
+    {
+      "id": 13,
+      "tittle": "Open Box - Apple MacBook Pro (2020) w",
+      "class": "Mac",
+      "price": 1199.77,
+      "imageURL": "./asset/image/mac/14875659-removebg-preview.png"
+    },
+    {
+      "id": 14,
+      "tittle": "Open Box - Apple MacBook Pro (2020) w",
+      "class": "Mac",
+      "price": 1749.99,
+      "imageURL": "./asset/image/mac/17146825-removebg-preview.png"
+    },
+    {
+      "id": 15,
+      "tittle": "Apple iPad Pro 12.9 (2022) WiFi 128GB 8GB RAM Grey",
+      "class": "iPad",
+      "price": 1359.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-pro-12-9-2022-wifi-128gb-8gb-ram-grey-removebg-preview.png"
+    },
+    {
+      "id": 16,
+      "tittle": "Apple iPad 10.2 (2021) WiFi 256GB 3GB RAM Silver",
+      "class": "iPad",
+      "price": 518.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-10-2-2021-wifi-256gb-3gb-ram-silver-removebg-preview.png"
+    },
+    {
+      "id": 17,
+      "tittle": "Apple iPad (2022) WiFi + Cellular 64GB Pink",
+      "class": "iPad",
+      "price": 600.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-2022-wifi-cellular-64gb-pink-removebg-preview.png"
+    },
+    {
+      "id": 18,
+      "tittle": "Apple iPad 10.2 (2021) WiFi 256GB 3GB RAM Grey",
+      "class": "iPad",
+      "price": 518.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-10-2-2021-wifi-256gb-3gb-ram-silver-removebg-preview.png"
+    },
+    {
+      "id": 19,
+      "tittle": "Apple iPad (2022) WiFi 64GB Blue",
+      "class": "iPad",
+      "price": 586.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-2022-wifi-64gb-blue-removebg-preview.png"
+    },
+    {
+      "id": 20,
+      "tittle": "Apple iPad (2022) WiFi 64GB Pink",
+      "class": "iPad",
+      "price": 576.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-2022-wifi-cellular-64gb-pink-removebg-preview.png"
+    },
+    {
+      "id": 21,
+      "tittle": "Apple iPad 10.2 (2021) WiFi 64GB 3GB RAM Grey",
+      "class": "iPad",
+      "price": 383.00,
+      "imageURL": "./asset/image/iPad/apple-ipad-10-2-2021-wifi-256gb-3gb-ram-silver-removebg-preview.png"
+    },
+    {
+      "id": 22,
+      "tittle": "Apple iPhone 15 Pro Max 5G Dual eSIM 512GB 8GB RAM Titanium Black",
+      "class": "iPhone",
+      "price": 2175.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-pro-max-5g-dual-esim-512gb-8gb-ram-titanium-black-removebg-preview.png"
+    },
+    {
+      "id": 23,
+      "tittle": "Apple iPhone 15 Pro Max 5G Dual eSIM 256GB 8GB RAM Titanium White",
+      "class": "iPhone",
+      "price": 1935.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-pro-5g-dual-esim-256gb-8gb-ram-titanium-white-removebg-preview.png"
+    },
+    {
+      "id": 24,
+      "tittle": "Apple iPhone 15 Pro Max 5G Dual eSIM 256GB 8GB RAM Titanium Blue",
+      "class": "iPhone",
+      "price": 1935.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-pro-max-5g-dual-esim-256gb-8gb-ram-titanium-blue-removebg-preview.png"
+    },
+    {
+      "id": 25,
+      "tittle": "Apple iPhone 15 Pro 5G Dual eSIM 256GB 8GB RAM Titanium White",
+      "class": "iPhone",
+      "price": 1575.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-pro-5g-dual-esim-256gb-8gb-ram-titanium-white-removebg-preview.png"
+    },
+    {
+      "id": 26,
+      "tittle": "Apple iPhone 14 Pro 5G Dual eSIM 512GB 6GB RAM Purple",
+      "class": "iPhone",
+      "price": 1455.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-14-pro-max-5g-dual-esim-256gb-6gb-ram-purple-removebg-preview.png"
+    },
+    {
+      "id": 27,
+      "tittle": "Apple iPhone 14 Pro Max 5G Dual eSIM 256GB 6GB RAM Gold",
+      "class": "iPhone",
+      "price": 1334.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-14-pro-max-5g-dual-esim-256gb-6gb-ram-gold-removebg-preview.png"
+    },
+    {
+      "id": 28,
+      "tittle": "Apple iPhone 14 Pro Max 5G Dual eSIM 256GB 6GB RAM Purple",
+      "class": "iPhone",
+      "price": 1335.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-14-pro-max-5g-dual-esim-256gb-6gb-ram-purple-removebg-preview.png"
+    },
+    {
+      "id": 29,
+      "tittle": "Apple iPhone 14 Pro 5G Dual eSIM 256GB 6GB RAM Black",
+      "class": "iPhone",
+      "price": 1215.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-14-pro-5g-dual-esim-512gb-6gb-ram-black-removebg-preview.png"
+    },
+    {
+      "id": 30,
+      "tittle": "Apple iPhone 15 5G Dual eSIM 256GB 6GB RAM Pink",
+      "class": "iPhone",
+      "price": 1095.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-5g-dual-esim-256gb-6gb-ram-pink-removebg-preview.png"
+    },
+    {
+      "id": 31,
+      "tittle": "Apple iPhone 15 Plus 5G Dual eSIM 128GB 6GB RAM Yellow",
+      "class": "iPhone",
+      "price": 1094.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-5g-dual-esim-128gb-6gb-ram-yellow-removebg-preview.png"
+    },
+    {
+      "id": 32,
+      "tittle": "Apple iPhone 15 5G Dual eSIM 256GB 6GB RAM Blue",
+      "class": "iPhone",
+      "price": 1089.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-15-5g-dual-esim-256gb-6gb-ram-blue-removebg-preview.png"
+    },
+    {
+      "id": 33,
+      "tittle": "Apple iPhone 14 Dual eSIM 5G 256GB 6GB RAM Starlight White",
+      "class": "iPhone",
+      "price": 938.00,
+      "imageURL": "./asset/image/iPhone/apple-iphone-14-dual-esim-5g-256gb-6gb-ram-starlight-white-removebg-preview.png"
+    },
+    {
+      "id": 34,
+      "tittle": "Apple Watch Ultra 2 Titanium Case with Trail Loop Black Blue",
+      "class": "Watch",
+      "price": 924.00,
+      "imageURL": "./asset/image/Watch/apple-watch-ultra-2-titanium-case-with-trail-loop-black-blue-removebg-preview.png"
+    },
+    {
+      "id": 35,
+      "tittle": "Apple Watch Series 9 45mm (GPS + Cellular) Stainless Steel Case Silver with Milanese Loop Silver",
+      "class": "Watch",
+      "price": 877.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-9-45mm-gps-cellular-stainless-steel-case-silver-with-milanese-loop-silver-removebg-preview.png"
+    },
+    {
+      "id": 36,
+      "tittle": "Apple Watch Series 9 45mm (GPS + Cellular) Stainless Steel Case Graphite Grey with Milanese Loop Black",
+      "class": "Watch",
+      "price": 877.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-9-45mm-gps-cellular-stainless-steel-case-graphite-grey-with-milanese-loop-black-removebg-preview.png"
+    },
+    {
+      "id": 37,
+      "tittle": "Apple Watch Series 9 41mm (GPS) Aluminium Case Midningth Black with Sport Band Midnight Black",
+      "class": "Watch",
+      "price": 466.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-9-41mm-gps-aluminium-case-midningth-black-with-sport-band-midnight-black-removebg-preview.png"
+    },
+    {
+      "id": 38,
+      "tittle": "Apple Watch Series 9 41mm (GPS) Aluminium Case Starlight Gold with Sport Band Starlight Gold",
+      "class": "Watch",
+      "price": 466.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-9-41mm-gps-aluminium-case-starlight-gold-with-sport-band-starlight-gold-removebg-preview.png"
+    },
+    {
+      "id": 39,
+      "tittle": "Apple Watch Series 8 45mm (GPS) Aluminium Starlight Gold Case Sport Band Gold",
+      "class": "Watch",
+      "price": 454.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-8-45mm-gps-aluminium-starlight-gold-case-sport-band-gold-removebg-preview.png"
+    },
+    {
+      "id": 40,
+      "tittle": "Apple Watch Series 8 41mm (GPS) Aluminium Silver Case Sport Band White",
+      "class": "Watch",
+      "price": 416.00,
+      "imageURL": "./asset/image/Watch/apple-watch-series-8-41mm-gps-aluminium-silver-case-sport-band-white-removebg-preview.png"
+    },
+    {
+      "id": 41,
+      "tittle": "Apple Watch SE (2022) 44mm (GPS Only) Aluminium Case Midnight Black Sport Band Black",
+      "class": "Watch",
+      "price": 341.00,
+      "imageURL": "./asset/image/Watch/apple-watch-se-2022-44mm-gps-only-aluminium-case-midnight-black-sport-band-black-removebg-preview.png"
+    },
+    {
+      "id": 42,
+      "tittle": "Apple Watch SE (2022) 44mm (GPS Only) Aluminium Case Midnight Black Loop Band Black",
+      "class": "Watch",
+      "price": 341.00,
+      "imageURL": "./asset/image/Watch/apple-watch-se-2022-44mm-gps-only-aluminium-case-midnight-black-loop-band-black-removebg-preview.png"
+    },
+    {
+      "id": 43,
+      "tittle": "Apple Watch SE (2022) 40mm (GPS Only) Aluminium Case Starlight Gold Loop Band Gold",
+      "class": "Watch",
+      "price": 318.00,
+      "imageURL": "./asset/image/Watch/apple-watch-se-2022-40mm-gps-only-aluminium-case-starlight-gold-loop-band-gold-removebg-preview.png"
+    },
+    {
+      "id": 44,
+      "tittle": "OtterBox Figura Series Case with MagSafe for iPhone 15 Pro - Multicolor",
+      "class": "Accessories",
+      "price": 49.95,
+      "imageURL": "./asset/image/accessories/HR052.png"
+    },
+    {
+      "id": 45,
+      "tittle": "OtterBox Lumen Series Case with MagSafe for iPhone 15 Pro Max - Gray",
+      "class": "Accessories",
+      "price": 49.95,
+      "imageURL": "./asset/image/accessories/HR102.png"
+    },
+    {
+      "id": 46,
+      "tittle": "iPhone 15 Pro Clear Case with MagSafe",
+      "class": "Accessories",
+      "price": 49.00,
+      "imageURL": "./asset/image/accessories/MT223.png"
+    },
+    {
+      "id": 47,
+      "tittle": "45mm Gold Milanese Loop",
+      "class": "Accessories",
+      "price": 99.00,
+      "imageURL": "./asset/image/accessories/ML763.png"
+    },
+    {
+      "id": 48,
+      "tittle": "45mm Light Pink Sport Loop",
+      "class": "Accessories",
+      "price": 49.00,
+      "imageURL": "./asset/image/accessories/MT5F3.png"
+    },
+    {
+      "id": 49,
+      "tittle": "Apple Watch Hermès - 45mm Orange Kilim Single Tour",
+      "class": "Accessories",
+      "price": 349.00,
+      "imageURL": "./asset/image/accessories/MTJ03.png"
+    },
+    {
+      "id": 50,
+      "tittle": "45mm Guava Braided Solo Loop - Size 6",
+      "class": "Accessories",
+      "price": 99.00,
+      "imageURL": "./asset/image/accessories/MT8U3ref.png"
+    },
+    {
+      "id": 51,
+      "tittle": "45mm Winter Blue Solo Loop - Size 6",
+      "class": "Accessories",
+      "price": 49.00,
+      "imageURL": "./asset/image/accessories/MTFR3ref.png"
+    },
+    {
+      "id": 52,
+      "tittle": "45mm Cargo Khaki Nike Sport Band - M/L",
+      "class": "Accessories",
+      "price": 49.00,
+      "imageURL": "./asset/image/accessories/MUVC3ref.png"
+    },
+    {
+      "id": 53,
+      "tittle": "USB-C to Lightning Cable (1 m)",
+      "class": "Accessories",
+      "price": 19.00,
+      "imageURL": "./asset/image/accessories/MU2G3.png"
+    },
+    {
+      "id": 54,
+      "tittle": "USB-C to USB Adapter",
+      "class": "Accessories",
+      "price": 19.00,
+      "imageURL": "./asset/image/accessories/MUQX3.png"
+    },
+    {
+      "id": 55,
+      "tittle": "Beats Flex – All-Day Wireless Earphones - Flame Blue",
+      "class": "Accessories",
+      "price": 69.99,
+      "imageURL": "./asset/image/accessories/MYMG2.png"
+    },
+    {
+      "id": 56,
+      "tittle": "20W USB-C Power Adapter",
+      "class": "Accessories",
+      "price": 19.00,
+      "imageURL": "./asset/image/accessories/MU7T2_GEO_US.png"
+    },
+    {
+      "id": 57,
+      "tittle": "MagSafe Charger",
+      "class": "Accessories",
+      "price": 39.00,
+      "imageURL": "./asset/image/accessories/MHXH3.png"
+    },
+    {
+      "id": 58,
+      "tittle": "Polishing Cloth",
+      "class": "Accessories",
+      "price": 19.00,
+      "imageURL": "./asset/image/accessories/MM6F3.png"
+    },
+    {
+      "id": 59,
+      "tittle": "Magic Trackpad",
+      "class": "Accessories",
+      "price": 149.00,
+      "imageURL": "./asset/image/accessories/MMMP3.png"
+    },
+    {
+      "id": 60,
+      "tittle": "HomePod - Midnight",
+      "class": "Accessories",
+      "price": 299.00,
+      "imageURL": "./asset/image/accessories/homepod-select-midnight-202210.png"
+    },
+    {
+      "id": 61,
+      "tittle": "HomePod mini - Blue",
+      "class": "Accessories",
+      "price": 99.00,
+      "imageURL": "./asset/image/accessories/homepod-mini-select-blue-202110.png"
+    },
+    {
+      "id": 62,
+      "tittle": "Magic Keyboard with Touch ID and Numeric Keypad",
+      "class": "Accessories",
+      "price": 199.00,
+      "imageURL": "./asset/image/accessories/MMMR3.png"
+    },
+    {
+      "id": 63,
+      "tittle": "Magic Mouse",
+      "class": "Accessories",
+      "price": 99.00,
+      "imageURL": "./asset/image/accessories/MMMQ3.png"
+    },
+    {
+      "id": 64,
+      "tittle": "iPhone FineWoven Wallet with MagSafe - Pacific Blue",
+      "class": "Accessories",
+      "price": 59.00,
+      "imageURL": "./asset/image/accessories/MT263.png"
+    }
+  ]
+}

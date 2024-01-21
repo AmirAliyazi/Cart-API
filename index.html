@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>Apple Product</title>
+</head>
+<body>
+    <!--HEAD-->
+    <div class="head">
+    <!--CONTAINER HEADER-->
+    <div class="container">
+        <!--HEADER-->
+        <div class="header">
+            <!--HEADER LOGO-->
+            <div class="header-logo">
+                <button class="btn">
+                    <img src="./asset/image/logo/images%20(1).png" alt="logo">
+                </button>
+            </div>
+            <!--HEADER MENU-->
+            <div class="header-product-bar">
+
+                <div class="product-bar">
+                    <div class="hamburger"></div>
+                    <div class="hamburger"></div>
+                    <div class="hamburger"></div>
+                </div>
+                <ul class="product-bar-menu">
+                    <li><a href="#" class="btn-menu" data-filter="">Home</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="Mac">Mac</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="iPad">iPad</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="iPhone">iPhone</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="Watch">Watch</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="AirPods">AirPods</a></li>
+                    <li><a href="#" class="btn-menu" data-filter="Accessories">Accessories</a></li>
+                </ul>
+
+            </div>
+            <!--HEADER SEARCH INPUT-->
+            <form action="search" class="search-input hidden">
+                <label for="search"></label>
+                <input type="search" id="search" placeholder="Search Product">
+            </form>
+            <!--HEADER TIMES-->
+            <div class="header-times hidden">
+                <button class="btn">
+                    <span>&times</span>
+                </button>
+            </div>
+            <!--HEADER CART-->
+            <div class="header-cart">
+                <div class="cart-num">0</div>
+                <button class="btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                        <path d="M2.25 2.25a.75.75 0 000 1.5h1.386c.17 0 .318.114.362.278l2.558 9.592a3.752 3.752 0 00-2.806 3.63c0 .414.336.75.75.75h15.75a.75.75 0 000-1.5H5.378A2.25 2.25 0 017.5 15h11.218a.75.75 0 00.674-.421 60.358 60.358 0 002.96-7.228.75.75 0 00-.525-.965A60.864 60.864 0 005.68 4.509l-.232-.867A1.875 1.875 0 003.636 2.25H2.25zM3.75 20.25a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0zM16.5 20.25a1.5 1.5 0 113 0 1.5 1.5 0 01-3 0z" />
+                    </svg>
+                </button>
+            </div>
+            <!--HEADER SEARCH ICON-->
+            <div class="header-search">
+                <button class="btn search-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                        <path fill-rule="evenodd" d="M10.5 3.75a6.75 6.75 0 100 13.5 6.75 6.75 0 000-13.5zM2.25 10.5a8.25 8.25 0 1114.59 5.28l4.69 4.69a.75.75 0 11-1.06 1.06l-4.69-4.69A8.25 8.25 0 012.25 10.5z" clip-rule="evenodd" />
+                    </svg>
+                </button>
+            </div>
+
+
+
+        </div>
+
+    </div>
+</div>
+    <!--SLIDER-->
+    <div class="slider-container">
+        <div class="slider">
+            <img src="./asset/image/panorama%20image/download-removebg-preview.png" alt="Apple Product">
+            <img src="./asset/image/panorama%20image/download__2_-removebg-preview.png" alt="Apple Product">
+            <img src="./asset/image/panorama%20image/download__1_-removebg-preview.png" alt="Apple Product">
+            <img src="./asset/image/panorama%20image/all_colors__d4w03v51nwcy_large-removebg-preview.png" alt="Apple Product">
+        </div>
+    </div>
+    <!--CONTENT-->
+    <div class="content">
+
+        <div class=" container">
+            <!--SEARCH CONTENT-->
+            <div class="search-content">
+
+                <h2 class="search-hint">
+                    Find the products you’re looking for.
+                </h2>
+                <form action="search" class="search-form-content">
+                    <label for="content-search"></label>
+                    <input type="search" id="content-search" placeholder="Search Products">
+                    <button class="search-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+                            <path fill-rule="evenodd" d="M10.5 3.75a6.75 6.75 0 100 13.5 6.75 6.75 0 000-13.5zM2.25 10.5a8.25 8.25 0 1114.59 5.28l4.69 4.69a.75.75 0 11-1.06 1.06l-4.69-4.69A8.25 8.25 0 012.25 10.5z" clip-rule="evenodd" />
+                        </svg>
+                    </button>
+                </form>
+                <hr>
+
+            </div>
+            <!--PRODUCTS ICON-->
+            <div class="products-icon">
+
+                <div class="icon-shapes">
+
+                    <button class="shape" data-filter="Mac">
+                        <div class="shape-change mac-color" data-filter="Mac">
+                            <img src="./asset/image/products%20icon/icon-product-mac.png" data-filter="Mac">
+                        </div>
+                        <span data-filter="Mac">Mac</span>
+                    </button>
+                    <button class="shape" data-filter="iPad">
+                        <div class="shape-change ipad-color" data-filter="iPad">
+                            <img src="./asset/image/products%20icon/icon-product-ipad.png" data-filter="iPad">
+                        </div>
+                        <span data-filter="iPad">iPad</span>
+                    </button>
+                    <button class="shape" data-filter="iPhone">
+                        <div class="shape-change iphone-color" data-filter="iPhone">
+                            <img src="./asset/image/products%20icon/icon-product-iphone.png" data-filter="iPhone">
+                        </div>
+                        <span data-filter="iPhone">iPhone</span>
+                    </button>
+                    <button class="shape" data-filter="Watch">
+                        <div class="shape-change watch-color" data-filter="Watch">
+                            <img src="./asset/image/products%20icon/icon-product-watch.png" data-filter="Watch">
+                        </div>
+                        <span data-filter="Watch">Watch</span>
+                    </button>
+                    <button class="shape" data-filter="AirPods">
+                        <div class="shape-change airpods-color" data-filter="AirPods">
+                            <img src="./asset/image/products%20icon/download__1_-removebg-preview.png" data-filter="AirPods">
+                        </div>
+                        <span data-filter="AirPods">AirPods</span>
+                    </button>
+                    <button class="shape" data-filter="Accessories">
+                        <div class="shape-change accesseries-color" data-filter="Accessories">
+                            <img src="./asset/image/products%20icon/icon-product-tv.png" data-filter="Accessories">
+                        </div>
+                        <span data-filter="Accessories">Accessories</span>
+                    </button>
+
+                </div>
+                <hr>
+
+            </div>
+            <!--PRODUCTS CONTENT-->
+            <div class="products-content">
+
+<!--                <div class="product">-->
+
+<!--                    <img src="./asset/image/accessories/MT263.png" alt="airpods">-->
+<!--                    <h3>iPhone FineWoven Wallet with MagSafe - Pacific Blue</h3>-->
+<!--                    <span>$ 59.00</span>-->
+<!--                    <button disabled="disabled" class="">Add to Cart</button>-->
+
+<!--                </div>-->
+
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script src="https://unpkg.com/axios@1.1.2/dist/axios.min.js"></script>
+        <script src="./main.js"></script>
+</body>
+</html>
+
+
